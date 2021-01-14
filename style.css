@@ -1,0 +1,63 @@
+.image-sizing{
+    border:none;
+    border-radius:20px
+}
+.image-sizing img{
+    height:280px;
+    width:280px;
+    background-color: #F1F1F1;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-radius: 10px;
+    float:center;
+   
+}
+.footer-sizing{
+    border:none;
+    background-color: white;
+    
+}
+.last-part{
+    border:none;
+    border-radius: 15px;
+    
+}
+.last-part img{
+    height:75px;
+    width:75px;
+}
+.for-margin{
+    margin-left:30px;
+}
+p{
+    color:rgb(62, 62,62);
+}
+h2{
+    color:#ffa600d8;
+}
+h4{
+    color:rgb(54, 57,88);
+}
+.first-heading h1{
+    font-weight:400;
+    font-size: 90px;
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C
+
+}
+.highlight{
+    color:#363958;
+}
+h1{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    
+}
+i{
+    padding-right: 10px;
+}
+.btn{
+    background-color: olivedrab;
+    color:white;
+}
